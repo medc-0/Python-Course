@@ -45,6 +45,7 @@ height = 1.75
 is_student = True
 
 """
+
 # Examples:
 # ---------
 
