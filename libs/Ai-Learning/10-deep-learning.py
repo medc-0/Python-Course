@@ -559,7 +559,7 @@ def modern_architectures():
 
 def main():
     """Main function to run all deep learning demonstrations"""
-    print("🚀 Deep Learning & Advanced Neural Networks")
+    print("Deep Learning & Advanced Neural Networks")
     print("=" * 50)
     
     # CNN for image classification
@@ -578,7 +578,7 @@ def main():
     modern_architectures()
     
     print("\n" + "=" * 50)
-    print("✅ Lesson 10 Complete!")
+    print("Lesson 10 Complete!")
     print("Next: Learn computer vision and image processing techniques")
     print("Key takeaway: Deep learning enables solving complex problems with large datasets")
 

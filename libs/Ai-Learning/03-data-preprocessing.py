@@ -398,7 +398,7 @@ def main():
     complete_preprocessing_pipeline()
     
     print("\n" + "=" * 50)
-    print("✅ Lesson 3 Complete!")
+    print("Lesson 3 Complete!")
     print("Next: Learn about machine learning algorithms with scikit-learn")
     print("Key takeaway: Proper preprocessing is crucial for model performance")
 

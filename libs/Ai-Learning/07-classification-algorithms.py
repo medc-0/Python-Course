@@ -502,7 +502,7 @@ def classification_model_comparison():
 
 def main():
     """Main function to run all classification demonstrations"""
-    print("🎯 Classification Algorithms")
+    print("Classification Algorithms")
     print("=" * 50)
     
     # Load datasets
@@ -527,7 +527,7 @@ def main():
     classification_model_comparison()
     
     print("\n" + "=" * 50)
-    print("✅ Lesson 7 Complete!")
+    print("Lesson 7 Complete!")
     print("Next: Learn model evaluation and validation techniques")
     print("Key takeaway: Different classification algorithms work best for different types of data and problems")
 

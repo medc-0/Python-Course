@@ -362,7 +362,7 @@ def advanced_visualization_techniques():
 
 def main():
     """Main function to run all visualization demonstrations"""
-    print("📊 Data Visualization for AI/ML")
+    print("Data Visualization for AI/ML")
     print("=" * 50)
     
     # Basic plotting techniques
@@ -381,7 +381,7 @@ def main():
     advanced_visualization_techniques()
     
     print("\n" + "=" * 50)
-    print("✅ Lesson 4 Complete!")
+    print("Lesson 4 Complete!")
     print("Next: Learn machine learning algorithms with scikit-learn")
     print("Key takeaway: Good visualizations reveal patterns and insights in data")
 

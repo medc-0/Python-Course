@@ -410,7 +410,7 @@ def main():
     model_comparison()
     
     print("\n" + "=" * 50)
-    print("✅ Lesson 5 Complete!")
+    print("Lesson 5 Complete!")
     print("Next: Learn linear regression and regression techniques")
     print("Key takeaway: Scikit-learn provides a consistent API for all ML algorithms")
 

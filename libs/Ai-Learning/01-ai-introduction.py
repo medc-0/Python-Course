@@ -175,7 +175,7 @@ def main():
     demonstrate_basic_ml_pipeline()
     
     print("\n" + "=" * 50)
-    print("✅ Lesson 1 Complete!")
+    print("Lesson 1 Complete!")
     print("Next: Learn about data preprocessing and feature engineering")
     print("Key takeaway: AI is about finding patterns in data to make predictions")
 

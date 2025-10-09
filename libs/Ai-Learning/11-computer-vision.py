@@ -658,7 +658,7 @@ def main():
     image_generation_basics()
     
     print("\n" + "=" * 50)
-    print("✅ Lesson 11 Complete!")
+    print("Lesson 11 Complete!")
     print("Next: Learn natural language processing and text analysis")
     print("Key takeaway: Computer vision enables machines to understand and interpret visual information")
 

@@ -416,7 +416,7 @@ def performance_metrics_comprehensive():
 
 def main():
     """Main function to run all model evaluation demonstrations"""
-    print("📊 Model Evaluation & Validation")
+    print("Model Evaluation & Validation")
     print("=" * 50)
     
     # Cross-validation techniques
@@ -438,7 +438,7 @@ def main():
     performance_metrics_comprehensive()
     
     print("\n" + "=" * 50)
-    print("✅ Lesson 8 Complete!")
+    print("Lesson 8 Complete!")
     print("Next: Learn neural networks and deep learning fundamentals")
     print("Key takeaway: Proper model evaluation is crucial for building reliable AI systems")
 

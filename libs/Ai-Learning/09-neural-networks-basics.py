@@ -502,7 +502,7 @@ def neural_network_architectures():
 
 def main():
     """Main function to run all neural network demonstrations"""
-    print("🧠 Neural Networks Fundamentals")
+    print("Neural Networks Fundamentals")
     print("=" * 50)
     
     # Perceptron implementation
@@ -521,7 +521,7 @@ def main():
     neural_network_architectures()
     
     print("\n" + "=" * 50)
-    print("✅ Lesson 9 Complete!")
+    print("Lesson 9 Complete!")
     print("Next: Learn deep learning and advanced neural network techniques")
     print("Key takeaway: Neural networks are powerful function approximators that can learn complex patterns")
 

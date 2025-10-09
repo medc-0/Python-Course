@@ -432,7 +432,7 @@ def regression_evaluation_metrics():
 
 def main():
     """Main function to run all regression demonstrations"""
-    print("📈 Linear Regression & Regression Techniques")
+    print("Linear Regression & Regression Techniques")
     print("=" * 50)
     
     # Simple linear regression
@@ -451,7 +451,7 @@ def main():
     regression_evaluation_metrics()
     
     print("\n" + "=" * 50)
-    print("✅ Lesson 6 Complete!")
+    print("Lesson 6 Complete!")
     print("Next: Learn classification algorithms and techniques")
     print("Key takeaway: Regression models predict continuous values and require different evaluation metrics")
 
