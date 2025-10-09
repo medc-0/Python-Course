@@ -1,4 +1,4 @@
-# Simple LLM from Scratch 🚀
+# Simple LLM from Scratch
 
 A fully functional Large Language Model (LLM) built from scratch using PyTorch. This implementation includes all the essential components of modern language models:
 
@@ -28,7 +28,7 @@ A fully functional Large Language Model (LLM) built from scratch using PyTorch. 
 - **`requirements.txt`** - Python dependencies
 - **`README.md`** - This documentation
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Install Dependencies
 ```bash
@@ -238,5 +238,3 @@ Feel free to:
 This is your journey into understanding how modern language models work. Experiment, learn, and most importantly - have fun building AI! 🚀
 
 ---
-
-**Happy Coding!** 👨‍💻👩‍💻
