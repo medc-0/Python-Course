@@ -18,7 +18,7 @@ Used to compare values. Result is always True or False.
 # Examples:
 a = 5
 b = 3
-print(a == b)   # is a value EQUAL TO b value: Output: False
+print(a == b)   # is 'a' value EQUAL TO 'b' value: Output: False
 print(a != b)   # Output: True
 print(a > b)    # Output: True
 print(a < b)    # Output: False
