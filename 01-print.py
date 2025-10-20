@@ -9,7 +9,7 @@ The `print()` function displays output to the console. It's used to show text, n
 
 Basic Usage:
 ------------
-print(*objects, sep=' ', end='\n')
+print(value)
 
 Parameters:
 -----------
@@ -23,7 +23,7 @@ F-strings (formatted string literals) are a way to embed expressions inside stri
 Prefix the string with `f` or `F` and put variables or expressions inside `{}` to display their values.
 
 Example:
-name = "Alice"
+name = "Alice" # this is a variable
 age = 30
 print(f"Name: {name}, Age: {age}")  # Output: Name: Alice, Age: 30
 """
