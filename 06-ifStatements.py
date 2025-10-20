@@ -5,7 +5,7 @@ Beginner's guide to Python if, elif, and else statements.
 
 Overview:
 ---------
-Conditional statements let you run code only if certain conditions are true.
+Conditional statements let you run code *ONLY* if certain conditions are true.
 
 Syntax:
 -------
@@ -15,7 +15,7 @@ elif another_condition:
     # code runs if previous conditions are False and this is True
 else:
     # code runs if none of the above conditions are True
-
+    
 Examples:
 ---------
 """
